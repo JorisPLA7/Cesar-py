@@ -11,7 +11,7 @@ alphabet.append((' ', '!'))
 print(alphabet.index('a'))
 
 def Crypt(phrase,passphrase):
-    '''J'ai essayé de tout décomposer pour que ça reste simple a lire pour une sous race de prog C++ ^^.
+    '''J'ai essayé de tout décomposer pour que ça reste simple a lire pour un programmeur C++ ^^.
     si j'avais fait le prog par moi-même j'aurais mis une compréhension de liste je pense.
     '''
     rep = ""
